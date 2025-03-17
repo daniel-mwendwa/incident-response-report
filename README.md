@@ -50,4 +50,4 @@ Incident response is a continuous improvement process. Strengthening cybersecuri
 
 ## Author
 **Daniel M. Mwithui**  
-📌 LinkedIn: [linkedin.com/in/daniel-mwendwa-bsc-a475311b7](https://linkedin.com/in/daniel-mwendwa-mwithui)  
+📌 LinkedIn: [LinkedIn](https://linkedin.com/in/daniel-mwendwa-mwithui)  
