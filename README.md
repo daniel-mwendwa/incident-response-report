@@ -4,7 +4,7 @@
 This repository contains a detailed **Incident Response (IR) Report** that explores cybersecurity incident handling using established frameworks such as **NIST** and **SANS**. It includes real-world scenarios, analysis techniques, containment strategies, and best practices for improving organizational security. 
  
 ## Table of Contents          
-- [Introduction](#introduction) 
+- [Introduction](#introduction)  
 - [Incident Response Frameworks](#incident-response-frameworks)
 - [Preparation](#preparation) 
 - [Detection & Analysis](#detection--analysis)   
