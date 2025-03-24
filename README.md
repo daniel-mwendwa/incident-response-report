@@ -49,5 +49,5 @@ Key lessons include:
 Incident response is a continuous improvement process. Strengthening cybersecurity defenses requires learning from incidents and adapting to evolving threats.
 
 ## Author
-**Daniel M. Mwithui**  
+**Daniel M. Mwithui**
 📌 [LinkedIn](https://linkedin.com/in/daniel-mwendwa-mwithui)  
