@@ -36,7 +36,7 @@ Detection involves identifying suspicious activity using logs, SIEM alerts, and 
 
 ## Containment, Eradication, and Recovery
 - **Containment:** Isolating the affected system to prevent malware spread.
-- **Eradication:** Removing malicious files and registry entries.
+- **Eradication:** Removing malicious files and registry entries.  
 - **Recovery:** Restoring the system and verifying no persistence mechanisms exist.
 
 ## Post-Incident Activity
