@@ -21,7 +21,7 @@ We compare **NIST** and **SANS** frameworks:
 - **NIST:** Four-phase approach - Preparation, Detection & Analysis, Containment & Eradication, and Post-Incident Activity.
 - **SANS:** Six-phase model - Preparation, Identification, Containment, Eradication, Recovery, and Lessons Learned.
 
-## Preparation 
+## Preparation
 Key activities include:
 - Developing an Incident Response Plan (IRP)
 - Implementing access controls and backups
