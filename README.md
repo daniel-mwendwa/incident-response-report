@@ -5,7 +5,7 @@ This repository contains a detailed **Incident Response (IR) Report** that explo
  
 ## Table of Contents
 - [Introduction](#introduction)
-- [Incident Response Frameworks](#incident-response-frameworks)
+- [Incident Response Frameworks](#incident-response-frameworks) 
 - [Preparation](#preparation)
 - [Detection & Analysis](#detection--analysis) 
 - [Containment, Eradication, and Recovery](#containment-eradication-and-recovery)
