@@ -11,7 +11,7 @@ This repository contains a detailed **Incident Response (IR) Report** that explo
 - [Containment, Eradication, and Recovery](#containment-eradication-and-recovery)
 - [Post-Incident Activity](#post-incident-activity)
 - [Conclusion](#conclusion)
-- [Author](#author)
+- [Author](#author) 
 
 ## Introduction
 Incident Response (IR) is a structured approach to detecting, managing, and mitigating cybersecurity threats. This report provides insights into handling incidents effectively to minimize downtime and impact.
