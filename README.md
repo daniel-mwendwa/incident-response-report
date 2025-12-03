@@ -1,4 +1,4 @@
-# Incident Response Report - January 2025
+# Incident Response Report - January 2025 
 
 ## Overview  
 This repository contains a detailed **Incident Response (IR) Report** that explores cybersecurity incident handling using established frameworks such as **NIST** and **SANS**. It includes real-world scenarios, analysis techniques, containment strategies, and best practices for improving organizational security.
